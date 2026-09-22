@@ -1,10 +1,10 @@
-# 🍔 Whopper King - Proyecto de Sistema de Información (ERP/POS)
+# Whopper King - Proyecto de Sistema de Información (ERP/POS)
 
 Este repositorio contiene la documentación y planificación estratégica para la implementación de un sistema de información (ERP y POS) diseñado específicamente para **Whopper King**, un restaurante ubicado en Pasto, Colombia. El objetivo principal es digitalizar y optimizar sus procesos operativos, financieros y de inventario, sentando las bases para futuros modelos de análisis de datos e inteligencia artificial.
 
 ---
 
-## 📖 1.1. ¿Quién es Whopper King? (Historia y Propuesta de Valor)
+## 1.1. ¿Quién es Whopper King? (Historia y Propuesta de Valor)
 
 Ubicado en el sector de las cuadras en Pasto, Whopper King fusiona el concepto de comida rápida al estilo estadounidense con la oferta de un restaurante tradicional.
 
@@ -15,7 +15,7 @@ Ubicado en el sector de las cuadras en Pasto, Whopper King fusiona el concepto d
 
 ---
 
-## ⚠️ 1.2. Planteamiento del Problema (Dolores del Negocio)
+## 1.2. Planteamiento del Problema (Dolores del Negocio)
 
 *   **Descontrol de Inventario (Warehouse Management):** Las compras de materias primas se realizan de forma diaria/semanal basándose en revisiones visuales y anotaciones en papel, sin un sistema formal que optimice los pedidos o genere pronósticos (*Forecast*). Fugas de capital por falta de control.
 *   **Cuellos de Botella Operativos (Bottlenecks):** Falta de personal en días específicos para procesar materias primas (carnes, papas) y alto volumen de lavado de platos. No existen indicadores de tiempos en líneas de cocción, no se aplica teoría de colas, ni se aprovechan las "horas muertas" para reasignar tareas.
@@ -23,7 +23,7 @@ Ubicado en el sector de las cuadras en Pasto, Whopper King fusiona el concepto d
 
 ---
 
-## 🎯 Fase 2: Requerimientos del Sistema (El 'To-Be')
+## Fase 2: Requerimientos del Sistema (El 'To-Be')
 
 ### 2.1. Objetivos del ERP
 1.  **Digitalización Interna:** Implementar un sistema centralizado de uso interno ("sombra") que digitalice el libro fiscal y elimine las fugas de capital.
@@ -31,14 +31,14 @@ Ubicado en el sector de las cuadras en Pasto, Whopper King fusiona el concepto d
 3.  **Data Driven:** Generar un repositorio de data histórica estructurada y limpia como base para futuros algoritmos de predicción de demanda.
 
 ### 2.2. Módulos Propuestos (Product Backlog)
-*   📦 **Módulo 1: POS y Ventas (Front-end)** - Interfaz ágil para comandos que separe transacciones por tipo de ticket y capture el momento exacto del pedido (para análisis de colas).
-*   📊 **Módulo 2: Control de Inventario Dinámico (Back-end)** - Descuento automático de insumos mediante recetas estandarizadas (*Bill of Materials*). Incluye alertas de reorden.
-*   👥 **Módulo 3: Dashboard Operativo y de RRHH** - Panel para monitorear horas pico vs. horas valle, identificando momentos óptimos para reasignar tareas de preparación al personal de servicio.
-*   💰 **Módulo 4: Dashboard Financiero** - Visualización de ingresos, COGS (Costo de Bienes Vendidos) y rentabilidad por principio de Pareto (80/20).
+*    **Módulo 1: POS y Ventas (Front-end)** - Interfaz ágil para comandos que separe transacciones por tipo de ticket y capture el momento exacto del pedido (para análisis de colas).
+*   **Módulo 2: Control de Inventario Dinámico (Back-end)** - Descuento automático de insumos mediante recetas estandarizadas (*Bill of Materials*). Incluye alertas de reorden.
+*   **Módulo 3: Dashboard Operativo y de RRHH** - Panel para monitorear horas pico vs. horas valle, identificando momentos óptimos para reasignar tareas de preparación al personal de servicio.
+*   **Módulo 4: Dashboard Financiero** - Visualización de ingresos, COGS (Costo de Bienes Vendidos) y rentabilidad por principio de Pareto (80/20).
 
 ---
 
-## ⚙️ Fase 3: Arquitectura Técnica y Bases de Datos
+## Fase 3: Arquitectura Técnica y Bases de Datos
 
 *   **Modelo de Datos:** Arquitectura relacional estructurada en **PostgreSQL** (desplegada vía **Supabase**) para asegurar transacciones ACID y facilitar la futura ingesta de datos hacia Python.
 *   **Entidades Clave:** 
@@ -50,7 +50,7 @@ Ubicado en el sector de las cuadras en Pasto, Whopper King fusiona el concepto d
 
 ---
 
-## 🚀 Fase 4: Plan de Implementación y Capacitación
+## Fase 4: Plan de Implementación y Capacitación
 
 *   **Estrategia de Adopción:** Capacitación sin fricción enfocada en personal empírico, utilizando interfaces visuales de alto contraste y flujos de trabajo con mínimos clics.
 *   **Indicadores de Éxito (KPIs):** 
@@ -61,7 +61,7 @@ Ubicado en el sector de las cuadras en Pasto, Whopper King fusiona el concepto d
 
 ---
 
-## 🛠️ Plan de Ejecución del Proyecto de Sistemas de Información
+## Plan de Ejecución del Proyecto de Sistemas de Información
 
 Para conectar la ingeniería de procesos con la analítica de datos, la hoja de ruta estratégica es la siguiente:
 
