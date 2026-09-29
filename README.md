@@ -11,7 +11,6 @@ Ubicado en el sector de las cuadras en Pasto, Whopper King fusiona el concepto d
 *   **Historia y Esencia en Pasto:** El negocio nació con un enfoque empírico. Actualmente opera bajo el liderazgo de una jefa de cocina, apoyada por personal auxiliar. Su esencia radica en la hiper-diversificación: ofrecen hamburguesas gigantes estilo americano (como la "Todo Terreno" o la "Texana"), pero también operan como restaurante tradicional vendiendo almuerzos completos y cortes especiales (ej. churrasco).
 *   **Misión y Visión (no oficial):** Proveer una experiencia gastronómica local versátil que cubra desde la necesidad de volumen rápido diario hasta el consumo de especialidades de alto valor para compartir el fin de semana.
 *   **El Cliente Ideal:** Familias tradicionales que buscan compartir (alta afluencia los fines de semana), así como oficinistas y trabajadores que consumen menús diarios. Existe una fuerte familiaridad del cliente con el servicio.
-*   **Modelo de Negocio Actual:** Modelo 100% manual y no sistematizado. El control de inventario se lleva en papel (libro fiscal) para evitar la facturación directa ante la DIAN. Los ingresos se dividen en tickets de volumen (almuerzos/fast food), tickets medios (combos) y tickets altos (proteínas a la carta).
 
 ---
 
